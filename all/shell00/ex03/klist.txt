@@ -1,0 +1,6 @@
+Credentials cache: API:0F1AE431-FA06-40D7-A778-6637D2310EF7
+        Principal: hlalouli@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 17:54:37 2021  Aug  3 03:54:37 2021  krbtgt/1337.MA@1337.MA
+Aug  2 17:54:39 2021  Aug  3 03:54:37 2021  HTTP/iscsi.1337.ma@1337.MA
